@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de la librería
+*.egg-info/
+build/
+dist/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
